@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="AnotherOOPGame.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Creature.cs">
+    <Files>
+      <File FileName="Creature.cs" Line="119" Column="4" />
+      <File FileName="Program.cs" Line="58" Column="4" />
+      <File FileName="Location.cs" Line="71" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

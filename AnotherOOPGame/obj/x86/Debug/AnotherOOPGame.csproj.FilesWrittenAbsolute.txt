@@ -1,0 +1,5 @@
+/home/zaqwer/src/CSharp/AnotherOOPGame/AnotherOOPGame/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/zaqwer/src/CSharp/AnotherOOPGame/AnotherOOPGame/bin/Debug/AnotherOOPGame.exe.mdb
+/home/zaqwer/src/CSharp/AnotherOOPGame/AnotherOOPGame/bin/Debug/AnotherOOPGame.exe
+/home/zaqwer/src/CSharp/AnotherOOPGame/AnotherOOPGame/obj/x86/Debug/AnotherOOPGame.exe
+/home/zaqwer/src/CSharp/AnotherOOPGame/AnotherOOPGame/obj/x86/Debug/AnotherOOPGame.exe.mdb
